@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeyaseelanandrew
 - 👀 I’m interested in LINUX administrator 
 - 🌱 I’m currently working as a service engineer 
-- 💞️ I’m looking to collaborate on Linux rool 
+- 💞️ I’m looking to collaborate on Linux role
 - 📫 You can reach me through my registered email address jeyaseelanandrew005@gmail.com
 
 <!---
